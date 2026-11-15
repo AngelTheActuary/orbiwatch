@@ -1,0 +1,9 @@
+OrbitWatch
+Copyright 2026 Los autores de OrbitWatch (ver historial de git)
+
+Este producto incluye software desarrollado por terceros:
+- satellite.js (MIT) — https://github.com/shashwatak/satellite-js
+
+Datos orbitales: CelesTrak (https://celestrak.org) y 18th Space Defense Squadron vía
+Space-Track.org (https://www.space-track.org). Los datos NO se distribuyen con este
+repositorio; se descargan en tiempo de ejecución bajo las políticas de cada proveedor.
